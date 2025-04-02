@@ -117,7 +117,7 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
 
 - **✨ Juego Ludo**  
   [Código](https://github.com/FabiCasC/Juego-Ludo) 
-  * Python* - A console-based Ludo game that simulates classic rules, allowing gameplay through text commands.
+  *Python* - A console-based Ludo game that simulates classic rules, allowing gameplay through text commands.
 
 - **🌟 Juego Secreto**  
   [Código](https://github.com/FabiCasC/Juego-secreto) | [Demo](https://fabicasc.github.io/Juego-secreto/)  
@@ -125,56 +125,39 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
   
 - **✨ Landing page restaurant**  
   [Código](https://github.com/FabiCasC/PF-CASTRO) 
-  *HTML,CSS,Bootstrap,SCSS, JavaScript* - A landing page for a restaurant showcasing its menu, highlighting its best dishes, and providing an engaging experience for customers.
+  *HTML,CSS,Bootstrap, SCSS, JavaScript* - A landing page for a restaurant showcasing its menu, highlighting its best dishes, and providing an engaging experience for customers.
 
 - **✨ Encriptador**  
   [Código](https://github.com/FabiCasC/Encriptador_web) | [Demo](https://fabicasc.github.io/Encriptador_web/)  
   *HTML, CSS, Javascript* - A simple encryptor that uses substitution to encode and decode lowercase text without accents or special characters.
 
-- **🌟 Juego Secreto**  
-  [Código](https://github.com/FabiCasC/Juego-secreto) | [Demo](https://fabicasc.github.io/Juego-secreto/)  
-  *HTML, CSS, Javascript* - A web-based game where you guess a secret number with hints until you get it right.
+- **🌟 Landing WorkInc**  
+  [Demo](https://landing-workinc-dhwp7q3fb-fabicascs-projects.vercel.app/)  
+  *TypeScript, HTML, CSS, Javascript* - A landing page designed to validate the MVP of a platform, attracting users and gathering feedback.
 
-### 📊 Data Science
+- **🌟 Landing Reka**  
+  [Código](https://github.com/FabiCasC/Reka-.git) | [Demo](https://fabicasc.github.io/Reka-/)  
+  *HTML, CSS, Javascript* - A landing page designed to validate the MVP of a platform, attracting users and gathering feedback.
+ 
+- **🌟 Landing Yachaywasi**  
+  [Código](https://github.com/FabiCasC/Yachaywasi-club.git) | [Demo](https://fabicasc.github.io/Yachaywasi-club/)  
+  *HTML, CSS, Javascript* - A landing page for a youth organization, showcasing its mission, activities, and ways to get involved.
 
-- **💭 SentiVerse Analyzer**  
-  [Código](https://github.com/FabiCasC/sentiverse-analyzer) | [Notebook](#)  
-  *Python, NLTK, Scikit-learn* - Sentiment analysis on product reviews using natural language processing techniques.
+- **🌟 Hackaton - Bey Max**  
+  [Código](https://github.com/FabiCasC/bey-max.git) | [Demo](https://bey-max.vercel.app/)  
+  *TypeScript, HTML, CSS, Javascript* - A landing page to showcase and validate a business idea, attracting potential customers and interested parties.
+ 
+  
+### 📊 University - Fourth semester
 
-- **📈 FutureSales Predictor**  
-  [Código](https://github.com/FabiCasC/futuresales-predictor) | [Notebook](#)  
-  *Python, Pandas, TensorFlow* - Machine learning model to predict future sales based on historical data and market trends.
+- **💭 Final project**  [Código](https://github.com/FabiCasC/TF_Empleadosplanilla.git) - Java
 
-### 🎨 UX/UI Design
-
-- **💜 NeoBank Redesign**  
-  [Código](https://github.com/FabCasC/neobank-redesign) | [Figma](#)  
-  *Figma, Adobe XD* - A futuristic redesign of a banking application with a focus on user experience and accessibility.
-
-- **✨ CosmoUI System**  
-  [Código](https://github.com/tu-usuario/cosmoui-system) | [Storybook](#)  
-  *React, Storybook, CSS* - A comprehensive design system with reusable components, style guide, and documentation.
-
-### 🔒 Cybersecurity
-
-- **🛡️ GuardianScan**  
-  [Código](https://github.com/tu-usuario/guardian-scan)  
-  *Python, OWASP* - A tool to detect common vulnerabilities in web applications and provide remediation suggestions.
-
-- **🔐 QuantumAuth**  
-  [Código](https://github.com/tu-usuario/quantum-auth) | [Demo](#)  
-  *Node.js, JWT, OAuth* - A secure authentication system with multiple factors and prevention of common attacks.
-
-### 🤖 Generative AI
-
-- **✨ NeoCreator**  
-  [Código](https://github.com/tu-usuario/neo-creator) | [Demo](#)  
-  *Python, TensorFlow, GPT* - An application that generates personalized content using advanced language models.
-
-- **🎨 DreamCanvas**  
-  [Código](https://github.com/tu-usuario/dream-canvas) | [Demo](#)  
-  *Python, PyTorch, DALL-E* - A platform to create digital art using generative AI models and creative prompts.
-
+- **📈 Practicies and Labs**
+  - Lab01 [Código](https://github.com/FabiCasC/Lab01-POO.git)
+  - Money change [Código](https://github.com/FabiCasC/ConversorMonedas.git)
+  - Animal challenge [Código](https://github.com/FabiCasC/reto-animales.git)
+  - Hair Salon [Código](https://github.com/FabiCasC/PeluqueriaApp.git)
+  
 ---
 
 
@@ -195,7 +178,7 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
 ## <div align="center">🌟 Fun Facts</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200">
+  <img src="https://i.pinimg.com/originals/2f/e4/60/2fe4604fdf9824873353a413d1435255.gif" width="200">
 
   <table border="0">
     <tr>
@@ -242,13 +225,10 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,21,22&height=100&section=footer&animation=fadeIn" width="100%"/>
-  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
   
   ### 💜 Made with love, code, and a touch of tech magic 💖
   
   <p>✨ Visit my profile to see more amazing projects ✨</p>
   
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=C71585&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=FabiCasC&color=C71585&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
