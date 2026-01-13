@@ -3,8 +3,6 @@
 <div align="center">
   
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C71585&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Data+Scientist;UX%2FUI+Designer;Cybersecurity+Enthusiast;AI+Explorer)](https://git.io/typing-svg)
 
   <a href="https://github.com/FabiCasC"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fabiana-castro-426438252/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -148,7 +146,7 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
   *TypeScript, HTML, CSS, Javascript* - A landing page to showcase and validate a business idea, attracting potential customers and interested parties.
  
   
-### 📊 University - Fourth semester
+### 📊 University - Six semester
 
 - **💭 Final project**  [Código](https://github.com/FabiCasC/TF_Empleadosplanilla.git) - Java
 
@@ -175,60 +173,12 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20,21,22&height=2&animation=fadeIn" width="100%">
 
-## <div align="center">🌟 Fun Facts</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/2f/e4/60/2fe4604fdf9824873353a413d1435255.gif" width="200">
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60">
-      </td>
-      <td>
-        <p>🌱 Currently learning about software architecture and cloud computing</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="60">
-      </td>
-      <td>
-        <p>🎯 My goal is to become a full-stack engineer with strong security knowledge</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="60">
-      </td>
-      <td>
-        <p>🎮 In my free time, I enjoy video games and reading</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="60">
-      </td>
-      <td>
-        <p>🌍 I love participating in projects that have a positive social impact</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
-      </td>
-      <td>
-        <p>💡 Always looking for new challenges and learning opportunities</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   
-  ### 💜 Made with love, code, and a touch of tech magic 💖
+  ### 💜 Made with love, code, and a touch of tech magic
   
-  <p>✨ Visit my profile to see more amazing projects ✨</p>
+  <p> Visit my profile to see more amazing projects ✨</p>
   
   <img src="https://komarev.com/ghpvc/?username=FabiCasC&color=C71585&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
