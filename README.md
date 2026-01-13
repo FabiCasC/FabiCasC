@@ -42,8 +42,6 @@ me.say_hi()
   > "Technology is like magic, but with logic. I'm on a journey to master this enchanting craft and create digital wonders."
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20,21,22&height=2&animation=fadeIn" width="100%">
-
 ## <div align="center">🚀 My Tech Journey</div>
 
 <div align="center">
@@ -162,8 +160,6 @@ I'm currently diving deep into multiple tech domains, building a versatile skill
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD4ubUVr8EkgQF2/giphy.gif" width="200">
-
   <img src="https://github-readme-stats.vercel.app/api?username=FabiCasC&show_icons=true&theme=radical&bg_color=0D1117&title_color=C71585&icon_color=BA55D3&text_color=FFFFFF&border_color=BA55D3" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabiCasC&theme=radical&background=0D1117&ring=C71585&fire=FF69B4&currStreakLabel=FFFFFF&border=BA55D3" alt="GitHub Streak" />
