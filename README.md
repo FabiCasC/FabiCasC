@@ -44,10 +44,6 @@ me.say_hi()
 
 ## <div align="center">🚀 My Tech Journey</div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b255804f-01c2-4347-b4a6-c7af38fa353c">
-</div>
-
 I'm currently diving deep into multiple tech domains, building a versatile skill set that allows me to create comprehensive solutions:
 
 <div style="text-align: left; font-family: Arial, sans-serif; max-width: 600px; margin: auto;">
